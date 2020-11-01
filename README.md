@@ -1,3 +1,3 @@
 # AsyncIO
 
-Libuv for Swift.
+Libuv in Swift.
