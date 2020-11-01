@@ -1,0 +1,12 @@
+//
+//  module.modulemap
+//  AsyncIO
+//
+//  Created by sunlubo on 2020/10/22.
+//  Copyright © 2020 sunlubo. All rights reserved.
+//
+
+module CLibuv [system] {
+  header "shim.h"
+  link "uv"
+}
